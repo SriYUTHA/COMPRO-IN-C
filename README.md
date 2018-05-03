@@ -1,1 +1,1 @@
-# Compro-in-C
+# COMPUTER PROGRAMMING
